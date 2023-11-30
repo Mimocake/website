@@ -1,0 +1,48 @@
+#hdr
+{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Nova Square', sans-serif;
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    padding: 10px;
+    border-style: solid;
+    border-width: 8px;
+}
+
+.hdr2
+{
+    background-color: lightblue;
+    padding: 10px;
+    width: fit-content;
+    border-style: solid;
+    border-width: 8px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 50px;
+    font-family: 'Nova Square', sans-serif;  
+    margin-left: 100px;
+}
+
+#hdr3
+{
+    color:white;
+    text-decoration: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 50px;
+    font-family: 'Nova Square', sans-serif;  
+    margin-left: 100px;
+}
+
+ul
+{
+    color:white;
+    margin-top: 0px;
+    padding-left: 100px;
+    font-size: 40px;
+    font-family: 'Nova Square', sans-serif;
+}
